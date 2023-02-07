@@ -23,7 +23,7 @@ git commit -m 'deploy'
 # if you are deploying to https://gp355d.github.io
 # git push -f git@github.com:gp355d/gp355d.github.io.git main
 
-# if you are deploying to https://gp355d.github.io/
+# if you are deploying to https://gp355d.github.io/vite-deploy-sample
 git push -f git@github.com:gp355d/vite-deploy-sample.git main:gh-pages
 
 cd -
